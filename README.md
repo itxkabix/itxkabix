@@ -117,12 +117,12 @@ ML model leveraging Indian housing and location data to predict house prices wit
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="medriba.streamlit.app" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxkabix&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-</div>
+</div> -->
 
 ---
 
