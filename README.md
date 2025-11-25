@@ -63,7 +63,7 @@ Hi! I'm **Kabir Ahmed**, an MCA student specializing in **Data Science** with a 
 ## 📌 Featured Projects
 
 ### 🩺 [MEDRIBA-V2](https://github.com/itxkabix/MEDRIBA-V2)
-**Multi-Model Expert Digital Responsive Intelligent Bio-health Assistant**
+**Multi-Model Expert Data-driven Risk Identification & Bio-health Analytics**
 
 A sophisticated healthcare chatbot leveraging **multiple AI models** for advanced medical guidance and information retrieval. Built with NLP techniques and a conversational interface focused on healthcare use cases. This project combines state-of-the-art language models with domain-specific medical knowledge.
 
@@ -84,14 +84,14 @@ An advanced LLM chatbot that not only describes diseases in detail but provides 
 
 ---
 
-### ❤️ [Multi-Disease Risk Prediction](https://github.com/itxkabix)
+<!-- ### ❤️ [Multi-Disease Risk Prediction](https://github.com/itxkabix)
 **Diabetes & Heart Disease Integrated Prediction Model**
 
 A comprehensive multimodal ML system combining **diabetes risk prediction** and **heart disease risk assessment** using standard health datasets. This project integrates multiple disease models into a single unified prediction system for holistic health risk assessment.
 
 - **Tech Stack:** Python, Scikit-learn, Pandas, Health Datasets
 - **Key Features:** Multi-disease analysis, feature engineering, ensemble methods
-- **Impact:** Early detection and preventive health intervention
+- **Impact:** Early detection and preventive health intervention -->
 
 ---
 
