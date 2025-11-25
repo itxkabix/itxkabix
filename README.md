@@ -1,4 +1,3 @@
-  ## Hi there 👋
 
 <!--
 **itxkabix/itxkabix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Kabir 👋
+## Hi, I'm Kabir Ahmed👋
 MCA student specializing in Data Science, passionate about building practical ML solutions and clean, user-focused applications.
 
 🎓 MCA (Data Science) student
